@@ -1,0 +1,11 @@
+@import "./variables";
+@import "./mixins";
+@import "./globals";
+
+// ? Components
+@import "./components/Header";
+@import "./components/Hero";
+@import "./components/About";
+@import "./components/Skills";
+@import "./components/Projects";
+@import "./components/Contact";
