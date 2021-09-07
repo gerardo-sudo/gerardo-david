@@ -107,7 +107,7 @@ const Layout = ({ children }) => {
 				<meta name="msapplication-TileColor" content="#ffffff" />
 				<meta name="msapplication-TileImage" content="/ms-icon-144x144.png" />
 				<meta name="theme-color" content="#ffffff" />
-				<title>Leonardo Socorro</title>
+				<title>Gerardo David</title>
 				<link
 					rel="stylesheet"
 					href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css"

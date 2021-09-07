@@ -10,7 +10,7 @@ const Contact = () => {
 						<div className="icon-container">
 							<a
 								target="_blank"
-								href="https://www.facebook.com/leo.socrro"
+								href="https://www.facebook.com/gerardoenrique.davidvega/"
 								rel="noopener noreferrer"
 							>
 								<img src="/img/facebook.png" />
@@ -19,7 +19,7 @@ const Contact = () => {
 						<div className="icon-container">
 							<a
 								target="_blank"
-								href="https://www.linkedin.com/in/leonardo-socorro-b95a52180/"
+								href="https://www.linkedin.com/in/gerardo-enrique-david-vega-3a8a34129/"
 								rel="noopener noreferrer"
 							>
 								<img src="/img/linkedin.png" />
@@ -27,7 +27,7 @@ const Contact = () => {
 						</div>
 						<div className="icon-container">
 							<a
-								href="https://github.com/lion-ctrl"
+								href="https://github.com/gerardo-sudo"
 								rel="noopener noreferrer"
 								target="_blank"
 							>
@@ -43,7 +43,7 @@ const Contact = () => {
 				</div>
 			</section>
 			<footer className="footer">
-				<p>Leonardo Socorro. &copy; Todos los derechos reservados.</p>
+				<p>Gerardo David. &copy; Todos los derechos reservados.</p>
 			</footer>
 		</>
 	);

@@ -54,7 +54,7 @@ const Hero = () => {
 		<section className="hero" id="home">
 			<div className="container hero__name">
 				<h1>
-					<span>Leonardo Socorro</span> Programador
+					<span>Gerardo David</span> Programador
 				</h1>
 				<p className="typing-text">
 					<span className="typed-text"></span>

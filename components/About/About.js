@@ -8,8 +8,8 @@ const About = () => {
 				<div className="about__text">
 					<p>
 						Soy Ingeniero de software junior que usa tecnologías como
-						Typescript, Tailwind CSS, React Hooks, GraphQL, Nodejs, PHP, CSS,
-						HTML, etc.
+						Typescript,  Nodejs, PHP, CSS, HTML, JAVA, Angular etc,
+						
 					</p>
 					<br />
 					<p>
@@ -21,12 +21,12 @@ const About = () => {
 					<br />
 					<p>
 						Soy autodidacta, proactivo y defensor de que la mejor manera de
-						trabajar es de manera eficiente, no trabajar duro. Mis fundamentos
+						trabajar es de manera eficiente. Mis fundamentos
 						en informática y arquitectura de software son sólidos y amplios.
 					</p>
 				</div>
 				<div className="about__img">
-					<img src="/img/about.jpg" alt="about" />
+					<img src="/img/i.jpg" alt="about" />
 				</div>
 			</div>
 		</section>
